@@ -1,0 +1,966 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADCCON	common/include/s5p6818_adc.h	15;"	d
+ADCDAT	common/include/s5p6818_adc.h	16;"	d
+ADCINTCLR	common/include/s5p6818_adc.h	18;"	d
+ADCINTENB	common/include/s5p6818_adc.h	17;"	d
+ALTFN0	common/include/s5p6818_gpio.h	/^	uint32 ALTFN0;$/;"	m	struct:__anon19
+ALTFN0	common/include/s5p6818_gpio.h	/^	uint32 ALTFN0;$/;"	m	struct:__anon20
+ALTFN0	common/include/s5p6818_gpio.h	/^	uint32 ALTFN0;$/;"	m	struct:__anon21
+ALTFN0	common/include/s5p6818_gpio.h	/^	uint32 ALTFN0;$/;"	m	struct:__anon22
+ALTFN0	common/include/s5p6818_gpio.h	/^	uint32 ALTFN0;$/;"	m	struct:__anon23
+ALTFN1	common/include/s5p6818_gpio.h	/^	uint32 ALTFN1;$/;"	m	struct:__anon19
+ALTFN1	common/include/s5p6818_gpio.h	/^	uint32 ALTFN1;$/;"	m	struct:__anon20
+ALTFN1	common/include/s5p6818_gpio.h	/^	uint32 ALTFN1;$/;"	m	struct:__anon21
+ALTFN1	common/include/s5p6818_gpio.h	/^	uint32 ALTFN1;$/;"	m	struct:__anon22
+ALTFN1	common/include/s5p6818_gpio.h	/^	uint32 ALTFN1;$/;"	m	struct:__anon23
+ASLP_COUNT	common/include/mma8451.h	39;"	d
+CC	Makefile	/^CC	= $(CROSS_COMPILE)gcc$/;"	m
+CLKDIVREG0	common/include/s5p6818_sys.h	15;"	d
+CLKDIVREG1	common/include/s5p6818_sys.h	16;"	d
+CLKDIVREG2	common/include/s5p6818_sys.h	17;"	d
+CLKDIVREG3	common/include/s5p6818_sys.h	18;"	d
+CLKDIVREG4	common/include/s5p6818_sys.h	19;"	d
+CLKDIVREG5	common/include/s5p6818_sys.h	20;"	d
+CLKDIVREG6	common/include/s5p6818_sys.h	21;"	d
+CLKDIVREG7	common/include/s5p6818_sys.h	22;"	d
+CLKDIVREG8	common/include/s5p6818_sys.h	23;"	d
+CLKMODEREG0	common/include/s5p6818_sys.h	8;"	d
+CLKMODEREG1	common/include/s5p6818_sys.h	9;"	d
+CODA960CLKENB	common/include/s5p6818_clk.h	19;"	d
+CPENDSGIR0	common/include/s5p6818_int.h	/^	uint32	CPENDSGIR0;$/;"	m	struct:__anon16
+CPENDSGIR1	common/include/s5p6818_int.h	/^	uint32	CPENDSGIR1;$/;"	m	struct:__anon16
+CPENDSGIR2	common/include/s5p6818_int.h	/^	uint32	CPENDSGIR2;$/;"	m	struct:__anon16
+CPENDSGIR3	common/include/s5p6818_int.h	/^	uint32	CPENDSGIR3;$/;"	m	struct:__anon16
+CROSS_COMPILE	Makefile	/^CROSS_COMPILE = arm-none-linux-gnueabi-$/;"	m
+CRYPTOCLKENB	common/include/s5p6818_clk.h	21;"	d
+CTRL_REG1	common/include/mma8451.h	40;"	d
+CTRL_REG2	common/include/mma8451.h	41;"	d
+CTRL_REG3	common/include/mma8451.h	42;"	d
+CTRL_REG4	common/include/mma8451.h	43;"	d
+CTRL_REG5	common/include/mma8451.h	44;"	d
+DEINTERLACECLKENB	common/include/s5p6818_clk.h	40;"	d
+DET	common/include/s5p6818_gpio.h	/^	uint32 DET;$/;"	m	struct:__anon19
+DET	common/include/s5p6818_gpio.h	/^	uint32 DET;$/;"	m	struct:__anon20
+DET	common/include/s5p6818_gpio.h	/^	uint32 DET;$/;"	m	struct:__anon21
+DET	common/include/s5p6818_gpio.h	/^	uint32 DET;$/;"	m	struct:__anon22
+DET	common/include/s5p6818_gpio.h	/^	uint32 DET;$/;"	m	struct:__anon23
+DETENB	common/include/s5p6818_gpio.h	/^	uint32 DETENB;$/;"	m	struct:__anon19
+DETENB	common/include/s5p6818_gpio.h	/^	uint32 DETENB;$/;"	m	struct:__anon20
+DETENB	common/include/s5p6818_gpio.h	/^	uint32 DETENB;$/;"	m	struct:__anon21
+DETENB	common/include/s5p6818_gpio.h	/^	uint32 DETENB;$/;"	m	struct:__anon22
+DETENB	common/include/s5p6818_gpio.h	/^	uint32 DETENB;$/;"	m	struct:__anon23
+DETMODE0	common/include/s5p6818_gpio.h	/^	uint32 DETMODE0;$/;"	m	struct:__anon19
+DETMODE0	common/include/s5p6818_gpio.h	/^	uint32 DETMODE0;$/;"	m	struct:__anon20
+DETMODE0	common/include/s5p6818_gpio.h	/^	uint32 DETMODE0;$/;"	m	struct:__anon21
+DETMODE0	common/include/s5p6818_gpio.h	/^	uint32 DETMODE0;$/;"	m	struct:__anon22
+DETMODE0	common/include/s5p6818_gpio.h	/^	uint32 DETMODE0;$/;"	m	struct:__anon23
+DETMODE1	common/include/s5p6818_gpio.h	/^	uint32 DETMODE1;$/;"	m	struct:__anon19
+DETMODE1	common/include/s5p6818_gpio.h	/^	uint32 DETMODE1;$/;"	m	struct:__anon20
+DETMODE1	common/include/s5p6818_gpio.h	/^	uint32 DETMODE1;$/;"	m	struct:__anon21
+DETMODE1	common/include/s5p6818_gpio.h	/^	uint32 DETMODE1;$/;"	m	struct:__anon22
+DETMODE1	common/include/s5p6818_gpio.h	/^	uint32 DETMODE1;$/;"	m	struct:__anon23
+DETMODEEX	common/include/s5p6818_gpio.h	/^	uint32 DETMODEEX;$/;"	m	struct:__anon19
+DETMODEEX	common/include/s5p6818_gpio.h	/^	uint32 DETMODEEX;$/;"	m	struct:__anon20
+DETMODEEX	common/include/s5p6818_gpio.h	/^	uint32 DETMODEEX;$/;"	m	struct:__anon21
+DETMODEEX	common/include/s5p6818_gpio.h	/^	uint32 DETMODEEX;$/;"	m	struct:__anon22
+DETMODEEX	common/include/s5p6818_gpio.h	/^	uint32 DETMODEEX;$/;"	m	struct:__anon23
+DPCCLKENB0	common/include/s5p6818_clk.h	163;"	d
+DPCCLKENB1	common/include/s5p6818_clk.h	164;"	d
+DPCCLKGEN0L0	common/include/s5p6818_clk.h	166;"	d
+DPCCLKGEN0L1	common/include/s5p6818_clk.h	167;"	d
+DPCCLKGEN1L0	common/include/s5p6818_clk.h	169;"	d
+DPCCLKGEN1L1	common/include/s5p6818_clk.h	170;"	d
+DRV0	common/include/s5p6818_gpio.h	/^	uint32 DRV0;$/;"	m	struct:__anon19
+DRV0	common/include/s5p6818_gpio.h	/^	uint32 DRV0;$/;"	m	struct:__anon20
+DRV0	common/include/s5p6818_gpio.h	/^	uint32 DRV0;$/;"	m	struct:__anon21
+DRV0	common/include/s5p6818_gpio.h	/^	uint32 DRV0;$/;"	m	struct:__anon22
+DRV0	common/include/s5p6818_gpio.h	/^	uint32 DRV0;$/;"	m	struct:__anon23
+DRV0_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV0_DISABLE_DEFAULT;$/;"	m	struct:__anon19
+DRV0_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV0_DISABLE_DEFAULT;$/;"	m	struct:__anon20
+DRV0_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV0_DISABLE_DEFAULT;$/;"	m	struct:__anon21
+DRV0_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV0_DISABLE_DEFAULT;$/;"	m	struct:__anon22
+DRV0_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV0_DISABLE_DEFAULT;$/;"	m	struct:__anon23
+DRV1	common/include/s5p6818_gpio.h	/^	uint32 DRV1;$/;"	m	struct:__anon19
+DRV1	common/include/s5p6818_gpio.h	/^	uint32 DRV1;$/;"	m	struct:__anon20
+DRV1	common/include/s5p6818_gpio.h	/^	uint32 DRV1;$/;"	m	struct:__anon21
+DRV1	common/include/s5p6818_gpio.h	/^	uint32 DRV1;$/;"	m	struct:__anon22
+DRV1	common/include/s5p6818_gpio.h	/^	uint32 DRV1;$/;"	m	struct:__anon23
+DRV1_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV1_DISABLE_DEFAULT;$/;"	m	struct:__anon19
+DRV1_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV1_DISABLE_DEFAULT;$/;"	m	struct:__anon20
+DRV1_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV1_DISABLE_DEFAULT;$/;"	m	struct:__anon21
+DRV1_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV1_DISABLE_DEFAULT;$/;"	m	struct:__anon22
+DRV1_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 DRV1_DISABLE_DEFAULT;$/;"	m	struct:__anon23
+Delay	iic.c	/^void Delay(void)$/;"	f
+FF_MT_CFG	common/include/mma8451.h	23;"	d
+FF_MT_COUNT	common/include/mma8451.h	26;"	d
+FF_MT_SRC	common/include/mma8451.h	24;"	d
+FF_MT_THS	common/include/mma8451.h	25;"	d
+F_SETUP	common/include/mma8451.h	11;"	d
+GICC_ABPR	common/include/s5p6818_int.h	243;"	d
+GICC_AEOIR	common/include/s5p6818_int.h	245;"	d
+GICC_AHIPPIR	common/include/s5p6818_int.h	246;"	d
+GICC_AIAR	common/include/s5p6818_int.h	244;"	d
+GICC_APR0	common/include/s5p6818_int.h	247;"	d
+GICC_BPR	common/include/s5p6818_int.h	238;"	d
+GICC_CTRL	common/include/s5p6818_int.h	236;"	d
+GICC_DIR	common/include/s5p6818_int.h	249;"	d
+GICC_EOIR	common/include/s5p6818_int.h	240;"	d
+GICC_HPPIR	common/include/s5p6818_int.h	242;"	d
+GICC_IAR	common/include/s5p6818_int.h	239;"	d
+GICC_NSAPR0	common/include/s5p6818_int.h	248;"	d
+GICC_PMR	common/include/s5p6818_int.h	237;"	d
+GICC_RPR	common/include/s5p6818_int.h	241;"	d
+GICD_CPENDSGIR	common/include/s5p6818_int.h	223;"	d
+GICD_CTRL	common/include/s5p6818_int.h	8;"	d
+GICD_ICFGR	common/include/s5p6818_int.h	197;"	d
+GICD_ICPENDER	common/include/s5p6818_int.h	67;"	d
+GICD_IGROUPR	common/include/s5p6818_int.h	23;"	d
+GICD_IIDR	common/include/s5p6818_int.h	12;"	d
+GICD_IPRIORITYR	common/include/s5p6818_int.h	135;"	d
+GICD_ISACTIVER	common/include/s5p6818_int.h	78;"	d
+GICD_ISCCTIVER	common/include/s5p6818_int.h	89;"	d
+GICD_ISCENABLER	common/include/s5p6818_int.h	45;"	d
+GICD_ISENABLER	common/include/s5p6818_int.h	34;"	d
+GICD_ISPENDR	common/include/s5p6818_int.h	56;"	d
+GICD_ITARGETSR	common/include/s5p6818_int.h	181;"	d
+GICD_PPISR	common/include/s5p6818_int.h	200;"	d
+GICD_SGIR	common/include/s5p6818_int.h	213;"	d
+GICD_SPENDSGIR	common/include/s5p6818_int.h	233;"	d
+GICD_SPISR	common/include/s5p6818_int.h	210;"	d
+GICD_TYPER	common/include/s5p6818_int.h	10;"	d
+GMACCLKENB	common/include/s5p6818_clk.h	135;"	d
+GMACCLKGEN0L	common/include/s5p6818_clk.h	137;"	d
+GMACCLKGEN1L	common/include/s5p6818_clk.h	139;"	d
+GPCLKENB	common/include/s5p6818_clk.h	27;"	d
+GPIOA	common/include/s5p6818_gpio.h	46;"	d
+GPIOB	common/include/s5p6818_gpio.h	78;"	d
+GPIOC	common/include/s5p6818_gpio.h	110;"	d
+GPIOD	common/include/s5p6818_gpio.h	142;"	d
+GPIOE	common/include/s5p6818_gpio.h	174;"	d
+GPIOINTENB	common/include/s5p6818_sys.h	33;"	d
+GPIOINTPEND	common/include/s5p6818_sys.h	34;"	d
+GPIORSTENB	common/include/s5p6818_sys.h	31;"	d
+GPIOWAKEUPFALLENB	common/include/s5p6818_sys.h	30;"	d
+GPIOWAKEUPRISEENB	common/include/s5p6818_sys.h	29;"	d
+GPIOWKENB	common/include/s5p6818_sys.h	32;"	d
+HDMICLKENB	common/include/s5p6818_clk.h	181;"	d
+HDMICLKGEN0L	common/include/s5p6818_clk.h	183;"	d
+HDMICLKGEN1L	common/include/s5p6818_clk.h	185;"	d
+HP_FILTER_CUTOFF	common/include/mma8451.h	17;"	d
+I2CADD0	common/include/s5p6818_iic.h	/^	uint32 I2CADD0;				\/\/ I2C-Bus address register$/;"	m	struct:__anon2
+I2CADD1	common/include/s5p6818_iic.h	/^	uint32 I2CADD1;				\/\/ I2C-Bus address register$/;"	m	struct:__anon3
+I2CADD2	common/include/s5p6818_iic.h	/^	uint32 I2CADD2;				\/\/ I2C-Bus address register$/;"	m	struct:__anon4
+I2CCLKENB0	common/include/s5p6818_clk.h	23;"	d
+I2CCLKENB1	common/include/s5p6818_clk.h	24;"	d
+I2CCLKENB2	common/include/s5p6818_clk.h	25;"	d
+I2CCON0	common/include/s5p6818_iic.h	/^	uint32 I2CCON0;				\/\/ I2C-Bus control register$/;"	m	struct:__anon2
+I2CCON1	common/include/s5p6818_iic.h	/^	uint32 I2CCON1;				\/\/ I2C-Bus control register$/;"	m	struct:__anon3
+I2CCON2	common/include/s5p6818_iic.h	/^	uint32 I2CCON2;				\/\/ I2C-Bus control register$/;"	m	struct:__anon4
+I2CDS0	common/include/s5p6818_iic.h	/^	uint32 I2CDS0;				\/\/ I2C-Bus transmit-receive data shift register$/;"	m	struct:__anon2
+I2CDS1	common/include/s5p6818_iic.h	/^	uint32 I2CDS1;				\/\/ I2C-Bus transmit-receive data shift register$/;"	m	struct:__anon3
+I2CDS2	common/include/s5p6818_iic.h	/^	uint32 I2CDS2;				\/\/ I2C-Bus transmit-receive data shift register$/;"	m	struct:__anon4
+I2CLC0	common/include/s5p6818_iic.h	/^	uint32 I2CLC0;				\/\/ I2C-bus line control register$/;"	m	struct:__anon2
+I2CLC1	common/include/s5p6818_iic.h	/^	uint32 I2CLC1;				\/\/ I2C-bus line control register$/;"	m	struct:__anon3
+I2CLC2	common/include/s5p6818_iic.h	/^	uint32 I2CLC2;				\/\/ I2C-bus line control register$/;"	m	struct:__anon4
+I2CSTAT0	common/include/s5p6818_iic.h	/^	uint32 I2CSTAT0;				\/\/ I2C-Bus control-status register$/;"	m	struct:__anon2
+I2CSTAT1	common/include/s5p6818_iic.h	/^	uint32 I2CSTAT1;				\/\/ I2C-Bus control-status register$/;"	m	struct:__anon3
+I2CSTAT2	common/include/s5p6818_iic.h	/^	uint32 I2CSTAT2;				\/\/ I2C-Bus control-status register$/;"	m	struct:__anon4
+I2CVR0	common/include/s5p6818_iic.h	20;"	d
+I2CVR1	common/include/s5p6818_iic.h	31;"	d
+I2CVR2	common/include/s5p6818_iic.h	42;"	d
+I2SCLKENB0	common/include/s5p6818_clk.h	142;"	d
+I2SCLKENB1	common/include/s5p6818_clk.h	143;"	d
+I2SCLKENB2	common/include/s5p6818_clk.h	144;"	d
+I2SCLKGEN0L0	common/include/s5p6818_clk.h	146;"	d
+I2SCLKGEN0L1	common/include/s5p6818_clk.h	147;"	d
+I2SCLKGEN0L2	common/include/s5p6818_clk.h	148;"	d
+I2SCLKGEN1L0	common/include/s5p6818_clk.h	150;"	d
+I2SCLKGEN1L1	common/include/s5p6818_clk.h	151;"	d
+I2SCLKGEN1L2	common/include/s5p6818_clk.h	152;"	d
+ICFGR0	common/include/s5p6818_int.h	/^	uint32	ICFGR0;$/;"	m	struct:__anon14
+ICFGR1	common/include/s5p6818_int.h	/^	uint32	ICFGR1;$/;"	m	struct:__anon14
+ICFGR2	common/include/s5p6818_int.h	/^	uint32	ICFGR2;$/;"	m	struct:__anon14
+ICFGR3	common/include/s5p6818_int.h	/^	uint32	ICFGR3;$/;"	m	struct:__anon14
+ICFGR4	common/include/s5p6818_int.h	/^	uint32	ICFGR4;$/;"	m	struct:__anon14
+ICFGR5	common/include/s5p6818_int.h	/^	uint32	ICFGR5;$/;"	m	struct:__anon14
+ICFGR6	common/include/s5p6818_int.h	/^	uint32	ICFGR6;$/;"	m	struct:__anon14
+ICFGR7	common/include/s5p6818_int.h	/^	uint32	ICFGR7;$/;"	m	struct:__anon14
+ICFGR8	common/include/s5p6818_int.h	/^	uint32	ICFGR8;$/;"	m	struct:__anon14
+ICFGR9	common/include/s5p6818_int.h	/^	uint32	ICFGR9;$/;"	m	struct:__anon14
+ICPENDER0	common/include/s5p6818_int.h	/^	uint32	ICPENDER0;$/;"	m	struct:__anon9
+ICPENDER1	common/include/s5p6818_int.h	/^	uint32	ICPENDER1;$/;"	m	struct:__anon9
+ICPENDER2	common/include/s5p6818_int.h	/^	uint32	ICPENDER2;$/;"	m	struct:__anon9
+ICPENDER3	common/include/s5p6818_int.h	/^	uint32	ICPENDER3;$/;"	m	struct:__anon9
+ICPENDER4	common/include/s5p6818_int.h	/^	uint32	ICPENDER4;$/;"	m	struct:__anon9
+IGROUPR0	common/include/s5p6818_int.h	/^	uint32	IGROUPR0;$/;"	m	struct:__anon5
+IGROUPR1	common/include/s5p6818_int.h	/^	uint32	IGROUPR1;$/;"	m	struct:__anon5
+IGROUPR2	common/include/s5p6818_int.h	/^	uint32	IGROUPR2;$/;"	m	struct:__anon5
+IGROUPR3	common/include/s5p6818_int.h	/^	uint32	IGROUPR3;$/;"	m	struct:__anon5
+IGROUPR4	common/include/s5p6818_int.h	/^	uint32	IGROUPR4;$/;"	m	struct:__anon5
+IIC0	common/include/s5p6818_iic.h	19;"	d
+IIC1	common/include/s5p6818_iic.h	30;"	d
+IIC2	common/include/s5p6818_iic.h	41;"	d
+IIC_Init	iic.c	/^void IIC_Init(void)$/;"	f
+IIC_Rec_Byte	iic.c	/^char IIC_Rec_Byte(char Ack)$/;"	f
+IIC_Send_Byte	iic.c	/^char IIC_Send_Byte( char Dat)$/;"	f
+IIC_Start	iic.c	/^void IIC_Start(void)$/;"	f
+IIC_Stop	iic.c	/^void IIC_Stop(void)$/;"	f
+INTENABLE	common/include/s5p6818_sys.h	36;"	d
+INTENB	common/include/s5p6818_gpio.h	/^	uint32 INTENB;$/;"	m	struct:__anon19
+INTENB	common/include/s5p6818_gpio.h	/^	uint32 INTENB;$/;"	m	struct:__anon20
+INTENB	common/include/s5p6818_gpio.h	/^	uint32 INTENB;$/;"	m	struct:__anon21
+INTENB	common/include/s5p6818_gpio.h	/^	uint32 INTENB;$/;"	m	struct:__anon22
+INTENB	common/include/s5p6818_gpio.h	/^	uint32 INTENB;$/;"	m	struct:__anon23
+INTPEND	common/include/s5p6818_sys.h	37;"	d
+INT_SOURCE	common/include/mma8451.h	14;"	d
+IPRIORITYR0	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR0;   	\/\/A:0-3$/;"	m	struct:__anon12
+IPRIORITYR1	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR1;	\/\/A:4-7$/;"	m	struct:__anon12
+IPRIORITYR10	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR10;	\/\/B:8-11$/;"	m	struct:__anon12
+IPRIORITYR11	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR11;	\/\/B:12-15$/;"	m	struct:__anon12
+IPRIORITYR12	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR12;	\/\/B:16-19$/;"	m	struct:__anon12
+IPRIORITYR13	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR13;	\/\/B:20-23$/;"	m	struct:__anon12
+IPRIORITYR14	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR14;	\/\/B:24-27$/;"	m	struct:__anon12
+IPRIORITYR15	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR15;	\/\/B:28-31$/;"	m	struct:__anon12
+IPRIORITYR16	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR16;	\/\/C:0-3$/;"	m	struct:__anon12
+IPRIORITYR17	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR17;	\/\/C:4-7$/;"	m	struct:__anon12
+IPRIORITYR18	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR18;	\/\/C:8-11$/;"	m	struct:__anon12
+IPRIORITYR19	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR19;	\/\/C:12-15$/;"	m	struct:__anon12
+IPRIORITYR2	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR2;	\/\/A:8-11$/;"	m	struct:__anon12
+IPRIORITYR20	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR20;	\/\/C:16-19$/;"	m	struct:__anon12
+IPRIORITYR21	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR21;	\/\/C:20-23$/;"	m	struct:__anon12
+IPRIORITYR22	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR22;	\/\/C:24-27$/;"	m	struct:__anon12
+IPRIORITYR23	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR23;	\/\/C:28-31$/;"	m	struct:__anon12
+IPRIORITYR24	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR24;	\/\/D:0-3$/;"	m	struct:__anon12
+IPRIORITYR25	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR25;	\/\/D:4-7$/;"	m	struct:__anon12
+IPRIORITYR26	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR26;	\/\/D:8-11$/;"	m	struct:__anon12
+IPRIORITYR27	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR27;	\/\/D:12-15$/;"	m	struct:__anon12
+IPRIORITYR28	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR28;	\/\/D:16-19$/;"	m	struct:__anon12
+IPRIORITYR29	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR29;	\/\/D:20-23$/;"	m	struct:__anon12
+IPRIORITYR3	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR3;	\/\/A:12-15$/;"	m	struct:__anon12
+IPRIORITYR30	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR30;	\/\/D:24-27$/;"	m	struct:__anon12
+IPRIORITYR31	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR31;	\/\/D:28-31$/;"	m	struct:__anon12
+IPRIORITYR32	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR32;	\/\/E:0-3$/;"	m	struct:__anon12
+IPRIORITYR33	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR33;	\/\/E:4-7$/;"	m	struct:__anon12
+IPRIORITYR34	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR34;	\/\/E:8-11$/;"	m	struct:__anon12
+IPRIORITYR35	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR35;	\/\/E:12-15$/;"	m	struct:__anon12
+IPRIORITYR36	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR36;	\/\/E:16-19$/;"	m	struct:__anon12
+IPRIORITYR37	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR37;	\/\/E:20-23$/;"	m	struct:__anon12
+IPRIORITYR38	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR38;	\/\/E:24-27$/;"	m	struct:__anon12
+IPRIORITYR39	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR39;	\/\/E:28-31$/;"	m	struct:__anon12
+IPRIORITYR4	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR4;	\/\/A:16-19$/;"	m	struct:__anon12
+IPRIORITYR5	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR5;	\/\/A:20-23$/;"	m	struct:__anon12
+IPRIORITYR6	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR6;	\/\/A:24-27$/;"	m	struct:__anon12
+IPRIORITYR7	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR7;	\/\/A:28-31$/;"	m	struct:__anon12
+IPRIORITYR8	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR8;	\/\/B:0-3$/;"	m	struct:__anon12
+IPRIORITYR9	common/include/s5p6818_int.h	/^	uint32	IPRIORITYR9;	\/\/B:4-7$/;"	m	struct:__anon12
+IP_RESET_REGISTER0	common/include/s5p6818_sys.h	178;"	d
+IP_RESET_REGISTER1	common/include/s5p6818_sys.h	179;"	d
+IP_RESET_REGISTER2	common/include/s5p6818_sys.h	180;"	d
+ISACTIVER0	common/include/s5p6818_int.h	/^	uint32	ISACTIVER0;$/;"	m	struct:__anon10
+ISACTIVER1	common/include/s5p6818_int.h	/^	uint32	ISACTIVER1;$/;"	m	struct:__anon10
+ISACTIVER2	common/include/s5p6818_int.h	/^	uint32	ISACTIVER2;$/;"	m	struct:__anon10
+ISACTIVER3	common/include/s5p6818_int.h	/^	uint32	ISACTIVER3;$/;"	m	struct:__anon10
+ISACTIVER4	common/include/s5p6818_int.h	/^	uint32	ISACTIVER4;$/;"	m	struct:__anon10
+ISCCTIVER0	common/include/s5p6818_int.h	/^	uint32	ISCCTIVER0;$/;"	m	struct:__anon11
+ISCCTIVER1	common/include/s5p6818_int.h	/^	uint32	ISCCTIVER1;$/;"	m	struct:__anon11
+ISCCTIVER2	common/include/s5p6818_int.h	/^	uint32	ISCCTIVER2;$/;"	m	struct:__anon11
+ISCCTIVER3	common/include/s5p6818_int.h	/^	uint32	ISCCTIVER3;$/;"	m	struct:__anon11
+ISCCTIVER4	common/include/s5p6818_int.h	/^	uint32	ISCCTIVER4;$/;"	m	struct:__anon11
+ISCENABLER0	common/include/s5p6818_int.h	/^	uint32	ISCENABLER0;$/;"	m	struct:__anon7
+ISCENABLER1	common/include/s5p6818_int.h	/^	uint32	ISCENABLER1;$/;"	m	struct:__anon7
+ISCENABLER2	common/include/s5p6818_int.h	/^	uint32	ISCENABLER2;$/;"	m	struct:__anon7
+ISCENABLER3	common/include/s5p6818_int.h	/^	uint32	ISCENABLER3;$/;"	m	struct:__anon7
+ISCENABLER4	common/include/s5p6818_int.h	/^	uint32	ISCENABLER4;$/;"	m	struct:__anon7
+ISENABLER0	common/include/s5p6818_int.h	/^	uint32	ISENABLER0;$/;"	m	struct:__anon6
+ISENABLER1	common/include/s5p6818_int.h	/^	uint32	ISENABLER1;$/;"	m	struct:__anon6
+ISENABLER2	common/include/s5p6818_int.h	/^	uint32	ISENABLER2;$/;"	m	struct:__anon6
+ISENABLER3	common/include/s5p6818_int.h	/^	uint32	ISENABLER3;$/;"	m	struct:__anon6
+ISENABLER4	common/include/s5p6818_int.h	/^	uint32	ISENABLER4;$/;"	m	struct:__anon6
+ISPENDR0	common/include/s5p6818_int.h	/^	uint32	ISPENDR0;$/;"	m	struct:__anon8
+ISPENDR1	common/include/s5p6818_int.h	/^	uint32	ISPENDR1;$/;"	m	struct:__anon8
+ISPENDR2	common/include/s5p6818_int.h	/^	uint32	ISPENDR2;$/;"	m	struct:__anon8
+ISPENDR3	common/include/s5p6818_int.h	/^	uint32	ISPENDR3;$/;"	m	struct:__anon8
+ISPENDR4	common/include/s5p6818_int.h	/^	uint32	ISPENDR4;$/;"	m	struct:__anon8
+ITARGETSR0	common/include/s5p6818_int.h	/^	uint32	ITARGETSR0;$/;"	m	struct:__anon13
+ITARGETSR1	common/include/s5p6818_int.h	/^	uint32	ITARGETSR1;$/;"	m	struct:__anon13
+ITARGETSR10	common/include/s5p6818_int.h	/^	uint32	ITARGETSR10;$/;"	m	struct:__anon13
+ITARGETSR11	common/include/s5p6818_int.h	/^	uint32	ITARGETSR11;$/;"	m	struct:__anon13
+ITARGETSR12	common/include/s5p6818_int.h	/^	uint32	ITARGETSR12;$/;"	m	struct:__anon13
+ITARGETSR13	common/include/s5p6818_int.h	/^	uint32	ITARGETSR13;$/;"	m	struct:__anon13
+ITARGETSR14	common/include/s5p6818_int.h	/^	uint32	ITARGETSR14;$/;"	m	struct:__anon13
+ITARGETSR15	common/include/s5p6818_int.h	/^	uint32	ITARGETSR15;$/;"	m	struct:__anon13
+ITARGETSR16	common/include/s5p6818_int.h	/^	uint32	ITARGETSR16;$/;"	m	struct:__anon13
+ITARGETSR17	common/include/s5p6818_int.h	/^	uint32	ITARGETSR17;$/;"	m	struct:__anon13
+ITARGETSR18	common/include/s5p6818_int.h	/^	uint32	ITARGETSR18;$/;"	m	struct:__anon13
+ITARGETSR19	common/include/s5p6818_int.h	/^	uint32	ITARGETSR19;$/;"	m	struct:__anon13
+ITARGETSR2	common/include/s5p6818_int.h	/^	uint32	ITARGETSR2;$/;"	m	struct:__anon13
+ITARGETSR20	common/include/s5p6818_int.h	/^	uint32	ITARGETSR20;$/;"	m	struct:__anon13
+ITARGETSR21	common/include/s5p6818_int.h	/^	uint32	ITARGETSR21;$/;"	m	struct:__anon13
+ITARGETSR22	common/include/s5p6818_int.h	/^	uint32	ITARGETSR22;$/;"	m	struct:__anon13
+ITARGETSR23	common/include/s5p6818_int.h	/^	uint32	ITARGETSR23;$/;"	m	struct:__anon13
+ITARGETSR24	common/include/s5p6818_int.h	/^	uint32	ITARGETSR24;$/;"	m	struct:__anon13
+ITARGETSR25	common/include/s5p6818_int.h	/^	uint32	ITARGETSR25;$/;"	m	struct:__anon13
+ITARGETSR26	common/include/s5p6818_int.h	/^	uint32	ITARGETSR26;$/;"	m	struct:__anon13
+ITARGETSR27	common/include/s5p6818_int.h	/^	uint32	ITARGETSR27;$/;"	m	struct:__anon13
+ITARGETSR28	common/include/s5p6818_int.h	/^	uint32	ITARGETSR28;$/;"	m	struct:__anon13
+ITARGETSR29	common/include/s5p6818_int.h	/^	uint32	ITARGETSR29;$/;"	m	struct:__anon13
+ITARGETSR3	common/include/s5p6818_int.h	/^	uint32	ITARGETSR3;$/;"	m	struct:__anon13
+ITARGETSR30	common/include/s5p6818_int.h	/^	uint32	ITARGETSR30;$/;"	m	struct:__anon13
+ITARGETSR31	common/include/s5p6818_int.h	/^	uint32	ITARGETSR31;$/;"	m	struct:__anon13
+ITARGETSR32	common/include/s5p6818_int.h	/^	uint32	ITARGETSR32;$/;"	m	struct:__anon13
+ITARGETSR33	common/include/s5p6818_int.h	/^	uint32	ITARGETSR33;$/;"	m	struct:__anon13
+ITARGETSR34	common/include/s5p6818_int.h	/^	uint32	ITARGETSR34;$/;"	m	struct:__anon13
+ITARGETSR35	common/include/s5p6818_int.h	/^	uint32	ITARGETSR35;$/;"	m	struct:__anon13
+ITARGETSR36	common/include/s5p6818_int.h	/^	uint32	ITARGETSR36;$/;"	m	struct:__anon13
+ITARGETSR37	common/include/s5p6818_int.h	/^	uint32	ITARGETSR37;$/;"	m	struct:__anon13
+ITARGETSR38	common/include/s5p6818_int.h	/^	uint32	ITARGETSR38;$/;"	m	struct:__anon13
+ITARGETSR39	common/include/s5p6818_int.h	/^	uint32	ITARGETSR39;$/;"	m	struct:__anon13
+ITARGETSR4	common/include/s5p6818_int.h	/^	uint32	ITARGETSR4;$/;"	m	struct:__anon13
+ITARGETSR5	common/include/s5p6818_int.h	/^	uint32	ITARGETSR5;$/;"	m	struct:__anon13
+ITARGETSR6	common/include/s5p6818_int.h	/^	uint32	ITARGETSR6;$/;"	m	struct:__anon13
+ITARGETSR7	common/include/s5p6818_int.h	/^	uint32	ITARGETSR7;$/;"	m	struct:__anon13
+ITARGETSR8	common/include/s5p6818_int.h	/^	uint32	ITARGETSR8;$/;"	m	struct:__anon13
+ITARGETSR9	common/include/s5p6818_int.h	/^	uint32	ITARGETSR9;$/;"	m	struct:__anon13
+LARGE	common/src/printf.c	89;"	d	file:
+LD	Makefile	/^LD	= $(CROSS_COMPILE)ld$/;"	m
+LEFT	common/src/printf.c	87;"	d	file:
+LVDSCLKENB	common/include/s5p6818_clk.h	174;"	d
+LVDSCLKGEN0L	common/include/s5p6818_clk.h	176;"	d
+LVDSCLKGEN1L	common/include/s5p6818_clk.h	178;"	d
+Lbignum	common/src/_udivsi3.S	/^Lbignum:$/;"	l
+Lbignum	common/src/_umodsi3.S	/^Lbignum:$/;"	l
+Ldiv0	common/src/_udivsi3.S	/^Ldiv0:$/;"	l
+Ldiv0	common/src/_umodsi3.S	/^Ldiv0:$/;"	l
+Lgot_result	common/src/_udivsi3.S	/^Lgot_result:$/;"	l
+Loop1	common/src/_udivsi3.S	/^Loop1:$/;"	l
+Loop1	common/src/_umodsi3.S	/^Loop1:$/;"	l
+Loop3	common/src/_udivsi3.S	/^Loop3:$/;"	l
+Loop3	common/src/_umodsi3.S	/^Loop3:$/;"	l
+MIPICLKENB	common/include/s5p6818_clk.h	189;"	d
+MIPICLKGEN0L	common/include/s5p6818_clk.h	191;"	d
+MIPICLKGEN1L	common/include/s5p6818_clk.h	193;"	d
+MIPICSICLKENB	common/include/s5p6818_clk.h	50;"	d
+MIPICSICLKGEN0L	common/include/s5p6818_clk.h	52;"	d
+MLCCLKENB0	common/include/s5p6818_clk.h	44;"	d
+MLCCLKENB1	common/include/s5p6818_clk.h	45;"	d
+MPEGTSICLKENB	common/include/s5p6818_clk.h	29;"	d
+NAME	Makefile	/^NAME =interface$/;"	m
+NM	Makefile	/^NM  = $(CROSS_COMPILE)nm$/;"	m
+OBJCOPY	Makefile	/^OBJCOPY = $(CROSS_COMPILE)objcopy$/;"	m
+OBJDUMP	Makefile	/^OBJDUMP = $(CROSS_COMPILE)objdump$/;"	m
+OBJS	Makefile	/^OBJS 	:= $(patsubst %.c,%.o,$(OBJSs))$/;"	m
+OBJSs	Makefile	/^OBJSs  	:= $(patsubst %.S,%.o,$(OBJSss))$/;"	m
+OBJSss	Makefile	/^OBJSss 	:= $(wildcard start\/*.S) $(wildcard common\/src\/*.S) $(wildcard *.S)\\$/;"	m
+OFF	common/include/led.h	23;"	d
+OFF_X	common/include/mma8451.h	45;"	d
+OFF_Y	common/include/mma8451.h	46;"	d
+OFF_Z	common/include/mma8451.h	47;"	d
+ON	common/include/led.h	22;"	d
+OUT	common/include/s5p6818_gpio.h	/^	uint32 OUT;$/;"	m	struct:__anon19
+OUT	common/include/s5p6818_gpio.h	/^	uint32 OUT;$/;"	m	struct:__anon20
+OUT	common/include/s5p6818_gpio.h	/^	uint32 OUT;$/;"	m	struct:__anon21
+OUT	common/include/s5p6818_gpio.h	/^	uint32 OUT;$/;"	m	struct:__anon22
+OUT	common/include/s5p6818_gpio.h	/^	uint32 OUT;$/;"	m	struct:__anon23
+OUTENB	common/include/s5p6818_gpio.h	/^	uint32 OUTENB;$/;"	m	struct:__anon19
+OUTENB	common/include/s5p6818_gpio.h	/^	uint32 OUTENB;$/;"	m	struct:__anon20
+OUTENB	common/include/s5p6818_gpio.h	/^	uint32 OUTENB;$/;"	m	struct:__anon21
+OUTENB	common/include/s5p6818_gpio.h	/^	uint32 OUTENB;$/;"	m	struct:__anon22
+OUTENB	common/include/s5p6818_gpio.h	/^	uint32 OUTENB;$/;"	m	struct:__anon23
+OUT_X_LSB	common/include/mma8451.h	6;"	d
+OUT_X_MSB	common/include/mma8451.h	5;"	d
+OUT_Y_LSB	common/include/mma8451.h	8;"	d
+OUT_Y_MSB	common/include/mma8451.h	7;"	d
+OUT_Z_LSB	common/include/mma8451.h	10;"	d
+OUT_Z_MSB	common/include/mma8451.h	9;"	d
+PAD	common/include/s5p6818_gpio.h	/^	uint32 PAD;$/;"	m	struct:__anon19
+PAD	common/include/s5p6818_gpio.h	/^	uint32 PAD;$/;"	m	struct:__anon20
+PAD	common/include/s5p6818_gpio.h	/^	uint32 PAD;$/;"	m	struct:__anon21
+PAD	common/include/s5p6818_gpio.h	/^	uint32 PAD;$/;"	m	struct:__anon22
+PAD	common/include/s5p6818_gpio.h	/^	uint32 PAD;$/;"	m	struct:__anon23
+PADSTRENGTHGPIOAL0	common/include/s5p6818_sys.h	41;"	d
+PADSTRENGTHGPIOAL1	common/include/s5p6818_sys.h	42;"	d
+PADSTRENGTHGPIOAL2	common/include/s5p6818_sys.h	43;"	d
+PDMCLKENB	common/include/s5p6818_clk.h	33;"	d
+PLLSETREG0	common/include/s5p6818_sys.h	10;"	d
+PLLSETREG0_SSCG	common/include/s5p6818_sys.h	25;"	d
+PLLSETREG1	common/include/s5p6818_sys.h	11;"	d
+PLLSETREG1_SSCG	common/include/s5p6818_sys.h	26;"	d
+PLLSETREG2	common/include/s5p6818_sys.h	12;"	d
+PLLSETREG2_SSCG	common/include/s5p6818_sys.h	27;"	d
+PLLSETREG3	common/include/s5p6818_sys.h	13;"	d
+PLLSETREG3_SSCG	common/include/s5p6818_sys.h	28;"	d
+PLUS	common/src/printf.c	85;"	d	file:
+PL_BF_ZCOMP	common/include/mma8451.h	21;"	d
+PL_CFG	common/include/mma8451.h	19;"	d
+PL_COUNT	common/include/mma8451.h	20;"	d
+PL_STATUS	common/include/mma8451.h	18;"	d
+PPMCLKENB	common/include/s5p6818_clk.h	56;"	d
+PPMCLKGEN0L	common/include/s5p6818_clk.h	58;"	d
+PRESCALERCON	common/include/s5p6818_adc.h	19;"	d
+PULLENB	common/include/s5p6818_gpio.h	/^	uint32 PULLENB;$/;"	m	struct:__anon19
+PULLENB	common/include/s5p6818_gpio.h	/^	uint32 PULLENB;$/;"	m	struct:__anon20
+PULLENB	common/include/s5p6818_gpio.h	/^	uint32 PULLENB;$/;"	m	struct:__anon21
+PULLENB	common/include/s5p6818_gpio.h	/^	uint32 PULLENB;$/;"	m	struct:__anon22
+PULLENB	common/include/s5p6818_gpio.h	/^	uint32 PULLENB;$/;"	m	struct:__anon23
+PULLENBD_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLENBD_DISABLE_DEFAULT;$/;"	m	struct:__anon19
+PULLENBD_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLENBD_DISABLE_DEFAULT;$/;"	m	struct:__anon20
+PULLENBD_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLENBD_DISABLE_DEFAULT;$/;"	m	struct:__anon21
+PULLENBD_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLENBD_DISABLE_DEFAULT;$/;"	m	struct:__anon22
+PULLENBD_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLENBD_DISABLE_DEFAULT;$/;"	m	struct:__anon23
+PULLSEL	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL;$/;"	m	struct:__anon19
+PULLSEL	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL;$/;"	m	struct:__anon20
+PULLSEL	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL;$/;"	m	struct:__anon21
+PULLSEL	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL;$/;"	m	struct:__anon22
+PULLSEL	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL;$/;"	m	struct:__anon23
+PULLSEL_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL_DISABLE_DEFAULT;$/;"	m	struct:__anon19
+PULLSEL_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL_DISABLE_DEFAULT;$/;"	m	struct:__anon20
+PULLSEL_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL_DISABLE_DEFAULT;$/;"	m	struct:__anon21
+PULLSEL_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL_DISABLE_DEFAULT;$/;"	m	struct:__anon22
+PULLSEL_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 PULLSEL_DISABLE_DEFAULT;$/;"	m	struct:__anon23
+PULSE_CFG	common/include/mma8451.h	31;"	d
+PULSE_LTCY	common/include/mma8451.h	37;"	d
+PULSE_SRC	common/include/mma8451.h	32;"	d
+PULSE_THSX	common/include/mma8451.h	33;"	d
+PULSE_THSY	common/include/mma8451.h	34;"	d
+PULSE_THSZ	common/include/mma8451.h	35;"	d
+PULSE_TMLT	common/include/mma8451.h	36;"	d
+PULSE_WIND	common/include/mma8451.h	38;"	d
+PWM	common/include/s5p6818_pwm.h	37;"	d
+PWMTIMERCLKENB_PWM0	common/include/s5p6818_clk.h	62;"	d
+PWMTIMERCLKENB_PWM1	common/include/s5p6818_clk.h	63;"	d
+PWMTIMERCLKENB_PWM2	common/include/s5p6818_clk.h	64;"	d
+PWMTIMERCLKENB_PWM3	common/include/s5p6818_clk.h	65;"	d
+PWMTIMERCLKENB_TIMER0	common/include/s5p6818_clk.h	74;"	d
+PWMTIMERCLKENB_TIMER1	common/include/s5p6818_clk.h	75;"	d
+PWMTIMERCLKENB_TIMER2	common/include/s5p6818_clk.h	76;"	d
+PWMTIMERCLKENB_TIMER3	common/include/s5p6818_clk.h	77;"	d
+PWMTIMERCLKGEN0L_PWM0	common/include/s5p6818_clk.h	67;"	d
+PWMTIMERCLKGEN0L_PWM1	common/include/s5p6818_clk.h	68;"	d
+PWMTIMERCLKGEN0L_PWM2	common/include/s5p6818_clk.h	69;"	d
+PWMTIMERCLKGEN0L_PWM3	common/include/s5p6818_clk.h	70;"	d
+PWMTIMERCLKGEN0L_TIMER0	common/include/s5p6818_clk.h	79;"	d
+PWMTIMERCLKGEN0L_TIMER1	common/include/s5p6818_clk.h	80;"	d
+PWMTIMERCLKGEN0L_TIMER2	common/include/s5p6818_clk.h	81;"	d
+PWMTIMERCLKGEN0L_TIMER3	common/include/s5p6818_clk.h	82;"	d
+PWRCONT	common/include/s5p6818_sys.h	38;"	d
+PWRMODE	common/include/s5p6818_sys.h	39;"	d
+P_L_THS_REG	common/include/mma8451.h	22;"	d
+READ_SDA	common/include/iic.h	12;"	d
+RESETSTATUS	common/include/s5p6818_sys.h	35;"	d
+RGB_ALL	common/include/led.h	20;"	d
+RGB_B	common/include/led.h	19;"	d
+RGB_G	common/include/led.h	18;"	d
+RGB_R	common/include/led.h	17;"	d
+RTCALARM	common/include/s5p6818_rtc.h	17;"	d
+RTCCNTREAD	common/include/s5p6818_rtc.h	16;"	d
+RTCCNTWRITE	common/include/s5p6818_rtc.h	15;"	d
+RTCCORERSTIMESEL	common/include/s5p6818_rtc.h	21;"	d
+RTCCTRL	common/include/s5p6818_rtc.h	18;"	d
+RTCINTENB	common/include/s5p6818_rtc.h	19;"	d
+RTCINTPND	common/include/s5p6818_rtc.h	20;"	d
+RTCSCRATCH	common/include/s5p6818_rtc.h	22;"	d
+R_byte	uart0.c	/^char R_byte(void)$/;"	f
+Reserved1	common/include/s5p6818_gpio.h	/^	uint32 Reserved1;$/;"	m	struct:__anon19
+Reserved1	common/include/s5p6818_gpio.h	/^	uint32 Reserved1;$/;"	m	struct:__anon20
+Reserved1	common/include/s5p6818_gpio.h	/^	uint32 Reserved1;$/;"	m	struct:__anon21
+Reserved1	common/include/s5p6818_gpio.h	/^	uint32 Reserved1;$/;"	m	struct:__anon22
+Reserved1	common/include/s5p6818_gpio.h	/^	uint32 Reserved1;$/;"	m	struct:__anon23
+Reserved2	common/include/s5p6818_gpio.h	/^	uint32 Reserved2;$/;"	m	struct:__anon19
+Reserved2	common/include/s5p6818_gpio.h	/^	uint32 Reserved2;$/;"	m	struct:__anon20
+Reserved2	common/include/s5p6818_gpio.h	/^	uint32 Reserved2;$/;"	m	struct:__anon21
+Reserved2	common/include/s5p6818_gpio.h	/^	uint32 Reserved2;$/;"	m	struct:__anon22
+Reserved2	common/include/s5p6818_gpio.h	/^	uint32 Reserved2;$/;"	m	struct:__anon23
+Reserved3	common/include/s5p6818_gpio.h	/^	uint32 Reserved3;$/;"	m	struct:__anon19
+Reserved3	common/include/s5p6818_gpio.h	/^	uint32 Reserved3;$/;"	m	struct:__anon20
+Reserved3	common/include/s5p6818_gpio.h	/^	uint32 Reserved3;$/;"	m	struct:__anon21
+Reserved3	common/include/s5p6818_gpio.h	/^	uint32 Reserved3;$/;"	m	struct:__anon22
+Reserved3	common/include/s5p6818_gpio.h	/^	uint32 Reserved3;$/;"	m	struct:__anon23
+Reserved4	common/include/s5p6818_gpio.h	/^	uint32 Reserved4;$/;"	m	struct:__anon19
+Reserved4	common/include/s5p6818_gpio.h	/^	uint32 Reserved4;$/;"	m	struct:__anon20
+Reserved4	common/include/s5p6818_gpio.h	/^	uint32 Reserved4;$/;"	m	struct:__anon21
+Reserved4	common/include/s5p6818_gpio.h	/^	uint32 Reserved4;$/;"	m	struct:__anon22
+Reserved4	common/include/s5p6818_gpio.h	/^	uint32 Reserved4;$/;"	m	struct:__anon23
+Reserved5	common/include/s5p6818_gpio.h	/^	uint32 Reserved5;$/;"	m	struct:__anon19
+Reserved5	common/include/s5p6818_gpio.h	/^	uint32 Reserved5;$/;"	m	struct:__anon20
+Reserved5	common/include/s5p6818_gpio.h	/^	uint32 Reserved5;$/;"	m	struct:__anon21
+Reserved5	common/include/s5p6818_gpio.h	/^	uint32 Reserved5;$/;"	m	struct:__anon22
+Reserved5	common/include/s5p6818_gpio.h	/^	uint32 Reserved5;$/;"	m	struct:__anon23
+SCALERCLKENB	common/include/s5p6818_clk.h	37;"	d
+SDMMCCLKENB0	common/include/s5p6818_clk.h	85;"	d
+SDMMCCLKENB1	common/include/s5p6818_clk.h	86;"	d
+SDMMCCLKENB2	common/include/s5p6818_clk.h	87;"	d
+SDMMCCLKGEN0L0	common/include/s5p6818_clk.h	89;"	d
+SDMMCCLKGEN0L1	common/include/s5p6818_clk.h	90;"	d
+SDMMCCLKGEN0L2	common/include/s5p6818_clk.h	91;"	d
+SET_SCL_H	common/include/iic.h	6;"	d
+SET_SCL_L	common/include/iic.h	7;"	d
+SET_SDA_H	common/include/iic.h	9;"	d
+SET_SDA_IN	common/include/iic.h	4;"	d
+SET_SDA_L	common/include/iic.h	10;"	d
+SET_SDA_OUT	common/include/iic.h	3;"	d
+SIGN	common/src/printf.c	84;"	d	file:
+SLAVE_ADDR	iic.c	5;"	d	file:
+SLEW	common/include/s5p6818_gpio.h	/^	uint32 SLEW;$/;"	m	struct:__anon19
+SLEW	common/include/s5p6818_gpio.h	/^	uint32 SLEW;$/;"	m	struct:__anon20
+SLEW	common/include/s5p6818_gpio.h	/^	uint32 SLEW;$/;"	m	struct:__anon21
+SLEW	common/include/s5p6818_gpio.h	/^	uint32 SLEW;$/;"	m	struct:__anon22
+SLEW	common/include/s5p6818_gpio.h	/^	uint32 SLEW;$/;"	m	struct:__anon23
+SLEW_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 SLEW_DISABLE_DEFAULT;$/;"	m	struct:__anon19
+SLEW_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 SLEW_DISABLE_DEFAULT;$/;"	m	struct:__anon20
+SLEW_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 SLEW_DISABLE_DEFAULT;$/;"	m	struct:__anon21
+SLEW_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 SLEW_DISABLE_DEFAULT;$/;"	m	struct:__anon22
+SLEW_DISABLE_DEFAULT	common/include/s5p6818_gpio.h	/^	uint32 SLEW_DISABLE_DEFAULT;$/;"	m	struct:__anon23
+SPACE	common/src/printf.c	86;"	d	file:
+SPDIFTXCLKENB	common/include/s5p6818_clk.h	95;"	d
+SPDIFTXCLKGEN0L	common/include/s5p6818_clk.h	97;"	d
+SPECIAL	common/src/printf.c	88;"	d	file:
+SPENDSGIR0	common/include/s5p6818_int.h	/^	uint32	SPENDSGIR0;$/;"	m	struct:__anon17
+SPENDSGIR1	common/include/s5p6818_int.h	/^	uint32	SPENDSGIR1;$/;"	m	struct:__anon17
+SPENDSGIR2	common/include/s5p6818_int.h	/^	uint32	SPENDSGIR2;$/;"	m	struct:__anon17
+SPENDSGIR3	common/include/s5p6818_int.h	/^	uint32	SPENDSGIR3;$/;"	m	struct:__anon17
+SPI0	common/include/s5p6818_spi.h	26;"	d
+SPI1	common/include/s5p6818_spi.h	29;"	d
+SPI2	common/include/s5p6818_spi.h	32;"	d
+SPISR0	common/include/s5p6818_int.h	/^	uint32	SPISR0;$/;"	m	struct:__anon15
+SPISR1	common/include/s5p6818_int.h	/^	uint32	SPISR1;$/;"	m	struct:__anon15
+SPISR2	common/include/s5p6818_int.h	/^	uint32	SPISR2;$/;"	m	struct:__anon15
+SPISR3	common/include/s5p6818_int.h	/^	uint32	SPISR3;$/;"	m	struct:__anon15
+SPI_SSP_CONFIGURE	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_CONFIGURE;				\/\/ SPI\/SSP configuration register$/;"	m	struct:__anon24
+SPI_SSP_FEEDBACK_CLOCK_SEL	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_FEEDBACK_CLOCK_SEL;		\/\/ SPI\/SSP feedback clock selection register$/;"	m	struct:__anon24
+SPI_SSP_FIFO_CON	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_FIFO_CON;				\/\/ SPI\/SSP FIFO control register$/;"	m	struct:__anon24
+SPI_SSP_INT_EN	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_INT_EN;					\/\/ SPI\/SSP interrupt enable register$/;"	m	struct:__anon24
+SPI_SSP_PACKET_COUNT	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_PACKET_COUNT;			\/\/ SPI\/SSP packet count register$/;"	m	struct:__anon24
+SPI_SSP_RX_DATA	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_RX_DATA;					\/\/ SPI\/SSP RX data register$/;"	m	struct:__anon24
+SPI_SSP_SEL_SIGNAL_CON	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_SEL_SIGNAL_CON;			\/\/ SPI\/SSP selection signal(CS) control register$/;"	m	struct:__anon24
+SPI_SSP_STATUS	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_STATUS;					\/\/ SPI\/SSP status register$/;"	m	struct:__anon24
+SPI_SSP_STATUS_PENDING_CLEAR	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_STATUS_PENDING_CLEAR;    \/\/ SPI\/SSP status pending clear register$/;"	m	struct:__anon24
+SPI_SSP_SWAP_CONFIGURE	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_SWAP_CONFIGURE;			\/\/ SPI\/SSP SWAP configuration register$/;"	m	struct:__anon24
+SPI_SSP_TX_DATA	common/include/s5p6818_spi.h	/^	uint32 SPI_SSP_TX_DATA;					\/\/ SPI\/SSP TX data register$/;"	m	struct:__anon24
+SSPCLKEN0L0	common/include/s5p6818_clk.h	105;"	d
+SSPCLKEN0L1	common/include/s5p6818_clk.h	106;"	d
+SSPCLKEN0L2	common/include/s5p6818_clk.h	107;"	d
+SSPCLKENB0	common/include/s5p6818_clk.h	101;"	d
+SSPCLKENB1	common/include/s5p6818_clk.h	102;"	d
+SSPCLKENB2	common/include/s5p6818_clk.h	103;"	d
+STATUS	common/include/mma8451.h	4;"	d
+SYSMOD	common/include/mma8451.h	13;"	d
+SYSRSTCONFIG	common/include/s5p6818_sys.h	44;"	d
+Step_Count	mma8451.c	/^unsigned long Step_Count(int axis0, int axis1, int axis2)$/;"	f
+TCFG0	common/include/s5p6818_pwm.h	/^	uint32 TCFG0;$/;"	m	struct:__anon18
+TCFG1	common/include/s5p6818_pwm.h	/^	uint32 TCFG1;$/;"	m	struct:__anon18
+TCMPB0	common/include/s5p6818_pwm.h	/^	uint32 TCMPB0;$/;"	m	struct:__anon18
+TCMPB1	common/include/s5p6818_pwm.h	/^	uint32 TCMPB1;$/;"	m	struct:__anon18
+TCMPB2	common/include/s5p6818_pwm.h	/^	uint32 TCMPB2;$/;"	m	struct:__anon18
+TCMPB3	common/include/s5p6818_pwm.h	/^	uint32 TCMPB3;$/;"	m	struct:__anon18
+TCNTB0	common/include/s5p6818_pwm.h	/^	uint32 TCNTB0;$/;"	m	struct:__anon18
+TCNTB1	common/include/s5p6818_pwm.h	/^	uint32 TCNTB1;$/;"	m	struct:__anon18
+TCNTB2	common/include/s5p6818_pwm.h	/^	uint32 TCNTB2;$/;"	m	struct:__anon18
+TCNTB3	common/include/s5p6818_pwm.h	/^	uint32 TCNTB3;$/;"	m	struct:__anon18
+TCNTB4	common/include/s5p6818_pwm.h	/^	uint32 TCNTB4;$/;"	m	struct:__anon18
+TCNTO0	common/include/s5p6818_pwm.h	/^	uint32 TCNTO0;$/;"	m	struct:__anon18
+TCNTO1	common/include/s5p6818_pwm.h	/^	uint32 TCNTO1;$/;"	m	struct:__anon18
+TCNTO2	common/include/s5p6818_pwm.h	/^	uint32 TCNTO2;$/;"	m	struct:__anon18
+TCNTO3	common/include/s5p6818_pwm.h	/^	uint32 TCNTO3;$/;"	m	struct:__anon18
+TCNTO4	common/include/s5p6818_pwm.h	/^	uint32 TCNTO4;$/;"	m	struct:__anon18
+TCON	common/include/s5p6818_pwm.h	/^	uint32 TCON;$/;"	m	struct:__anon18
+TIEOFFREG00	common/include/s5p6818_sys.h	48;"	d
+TIEOFFREG01	common/include/s5p6818_sys.h	49;"	d
+TIEOFFREG02	common/include/s5p6818_sys.h	50;"	d
+TIEOFFREG03	common/include/s5p6818_sys.h	51;"	d
+TIEOFFREG04	common/include/s5p6818_sys.h	52;"	d
+TIEOFFREG05	common/include/s5p6818_sys.h	53;"	d
+TIEOFFREG06	common/include/s5p6818_sys.h	54;"	d
+TIEOFFREG07	common/include/s5p6818_sys.h	55;"	d
+TIEOFFREG08	common/include/s5p6818_sys.h	56;"	d
+TIEOFFREG09	common/include/s5p6818_sys.h	57;"	d
+TIEOFFREG10	common/include/s5p6818_sys.h	58;"	d
+TIEOFFREG100	common/include/s5p6818_sys.h	142;"	d
+TIEOFFREG101	common/include/s5p6818_sys.h	143;"	d
+TIEOFFREG102	common/include/s5p6818_sys.h	144;"	d
+TIEOFFREG103	common/include/s5p6818_sys.h	145;"	d
+TIEOFFREG104	common/include/s5p6818_sys.h	146;"	d
+TIEOFFREG105	common/include/s5p6818_sys.h	148;"	d
+TIEOFFREG106	common/include/s5p6818_sys.h	149;"	d
+TIEOFFREG107	common/include/s5p6818_sys.h	150;"	d
+TIEOFFREG108	common/include/s5p6818_sys.h	151;"	d
+TIEOFFREG109	common/include/s5p6818_sys.h	152;"	d
+TIEOFFREG11	common/include/s5p6818_sys.h	59;"	d
+TIEOFFREG110	common/include/s5p6818_sys.h	153;"	d
+TIEOFFREG111	common/include/s5p6818_sys.h	154;"	d
+TIEOFFREG112	common/include/s5p6818_sys.h	155;"	d
+TIEOFFREG113	common/include/s5p6818_sys.h	156;"	d
+TIEOFFREG114	common/include/s5p6818_sys.h	157;"	d
+TIEOFFREG115	common/include/s5p6818_sys.h	158;"	d
+TIEOFFREG116	common/include/s5p6818_sys.h	159;"	d
+TIEOFFREG117	common/include/s5p6818_sys.h	160;"	d
+TIEOFFREG118	common/include/s5p6818_sys.h	161;"	d
+TIEOFFREG119	common/include/s5p6818_sys.h	162;"	d
+TIEOFFREG12	common/include/s5p6818_sys.h	60;"	d
+TIEOFFREG120	common/include/s5p6818_sys.h	163;"	d
+TIEOFFREG121	common/include/s5p6818_sys.h	164;"	d
+TIEOFFREG122	common/include/s5p6818_sys.h	165;"	d
+TIEOFFREG123	common/include/s5p6818_sys.h	166;"	d
+TIEOFFREG124	common/include/s5p6818_sys.h	167;"	d
+TIEOFFREG125	common/include/s5p6818_sys.h	168;"	d
+TIEOFFREG126	common/include/s5p6818_sys.h	169;"	d
+TIEOFFREG127	common/include/s5p6818_sys.h	170;"	d
+TIEOFFREG128	common/include/s5p6818_sys.h	171;"	d
+TIEOFFREG129	common/include/s5p6818_sys.h	172;"	d
+TIEOFFREG13	common/include/s5p6818_sys.h	61;"	d
+TIEOFFREG130	common/include/s5p6818_sys.h	173;"	d
+TIEOFFREG131	common/include/s5p6818_sys.h	174;"	d
+TIEOFFREG14	common/include/s5p6818_sys.h	62;"	d
+TIEOFFREG15	common/include/s5p6818_sys.h	63;"	d
+TIEOFFREG16	common/include/s5p6818_sys.h	64;"	d
+TIEOFFREG17	common/include/s5p6818_sys.h	65;"	d
+TIEOFFREG18	common/include/s5p6818_sys.h	66;"	d
+TIEOFFREG19	common/include/s5p6818_sys.h	67;"	d
+TIEOFFREG20	common/include/s5p6818_sys.h	68;"	d
+TIEOFFREG21	common/include/s5p6818_sys.h	69;"	d
+TIEOFFREG22	common/include/s5p6818_sys.h	70;"	d
+TIEOFFREG23	common/include/s5p6818_sys.h	71;"	d
+TIEOFFREG24	common/include/s5p6818_sys.h	72;"	d
+TIEOFFREG25	common/include/s5p6818_sys.h	73;"	d
+TIEOFFREG26	common/include/s5p6818_sys.h	74;"	d
+TIEOFFREG27	common/include/s5p6818_sys.h	75;"	d
+TIEOFFREG28	common/include/s5p6818_sys.h	76;"	d
+TIEOFFREG29	common/include/s5p6818_sys.h	77;"	d
+TIEOFFREG30	common/include/s5p6818_sys.h	78;"	d
+TIEOFFREG31	common/include/s5p6818_sys.h	79;"	d
+TIEOFFREG32	common/include/s5p6818_sys.h	80;"	d
+TIEOFFREG41	common/include/s5p6818_sys.h	81;"	d
+TIEOFFREG42	common/include/s5p6818_sys.h	82;"	d
+TIEOFFREG43	common/include/s5p6818_sys.h	83;"	d
+TIEOFFREG44	common/include/s5p6818_sys.h	84;"	d
+TIEOFFREG45	common/include/s5p6818_sys.h	85;"	d
+TIEOFFREG46	common/include/s5p6818_sys.h	86;"	d
+TIEOFFREG47	common/include/s5p6818_sys.h	87;"	d
+TIEOFFREG48	common/include/s5p6818_sys.h	88;"	d
+TIEOFFREG49	common/include/s5p6818_sys.h	89;"	d
+TIEOFFREG50	common/include/s5p6818_sys.h	90;"	d
+TIEOFFREG51	common/include/s5p6818_sys.h	91;"	d
+TIEOFFREG52	common/include/s5p6818_sys.h	92;"	d
+TIEOFFREG53	common/include/s5p6818_sys.h	93;"	d
+TIEOFFREG54	common/include/s5p6818_sys.h	94;"	d
+TIEOFFREG55	common/include/s5p6818_sys.h	95;"	d
+TIEOFFREG56	common/include/s5p6818_sys.h	96;"	d
+TIEOFFREG57	common/include/s5p6818_sys.h	97;"	d
+TIEOFFREG58	common/include/s5p6818_sys.h	98;"	d
+TIEOFFREG59	common/include/s5p6818_sys.h	99;"	d
+TIEOFFREG60	common/include/s5p6818_sys.h	100;"	d
+TIEOFFREG61	common/include/s5p6818_sys.h	101;"	d
+TIEOFFREG62	common/include/s5p6818_sys.h	102;"	d
+TIEOFFREG63	common/include/s5p6818_sys.h	103;"	d
+TIEOFFREG64	common/include/s5p6818_sys.h	104;"	d
+TIEOFFREG65	common/include/s5p6818_sys.h	105;"	d
+TIEOFFREG66	common/include/s5p6818_sys.h	106;"	d
+TIEOFFREG67	common/include/s5p6818_sys.h	107;"	d
+TIEOFFREG68	common/include/s5p6818_sys.h	108;"	d
+TIEOFFREG69	common/include/s5p6818_sys.h	109;"	d
+TIEOFFREG70	common/include/s5p6818_sys.h	110;"	d
+TIEOFFREG71	common/include/s5p6818_sys.h	111;"	d
+TIEOFFREG72	common/include/s5p6818_sys.h	112;"	d
+TIEOFFREG73	common/include/s5p6818_sys.h	113;"	d
+TIEOFFREG74	common/include/s5p6818_sys.h	114;"	d
+TIEOFFREG75	common/include/s5p6818_sys.h	115;"	d
+TIEOFFREG76	common/include/s5p6818_sys.h	116;"	d
+TIEOFFREG77	common/include/s5p6818_sys.h	117;"	d
+TIEOFFREG78	common/include/s5p6818_sys.h	118;"	d
+TIEOFFREG79	common/include/s5p6818_sys.h	119;"	d
+TIEOFFREG80	common/include/s5p6818_sys.h	120;"	d
+TIEOFFREG81	common/include/s5p6818_sys.h	121;"	d
+TIEOFFREG82	common/include/s5p6818_sys.h	122;"	d
+TIEOFFREG83	common/include/s5p6818_sys.h	123;"	d
+TIEOFFREG84	common/include/s5p6818_sys.h	124;"	d
+TIEOFFREG85	common/include/s5p6818_sys.h	125;"	d
+TIEOFFREG86	common/include/s5p6818_sys.h	126;"	d
+TIEOFFREG87	common/include/s5p6818_sys.h	127;"	d
+TIEOFFREG88	common/include/s5p6818_sys.h	129;"	d
+TIEOFFREG89	common/include/s5p6818_sys.h	131;"	d
+TIEOFFREG90	common/include/s5p6818_sys.h	132;"	d
+TIEOFFREG91	common/include/s5p6818_sys.h	133;"	d
+TIEOFFREG92	common/include/s5p6818_sys.h	134;"	d
+TIEOFFREG93	common/include/s5p6818_sys.h	135;"	d
+TIEOFFREG94	common/include/s5p6818_sys.h	136;"	d
+TIEOFFREG95	common/include/s5p6818_sys.h	137;"	d
+TIEOFFREG96	common/include/s5p6818_sys.h	138;"	d
+TIEOFFREG97	common/include/s5p6818_sys.h	139;"	d
+TIEOFFREG98	common/include/s5p6818_sys.h	140;"	d
+TIEOFFREG99	common/include/s5p6818_sys.h	141;"	d
+TINT_CSTAT	common/include/s5p6818_pwm.h	/^	uint32 TINT_CSTAT;$/;"	m	struct:__anon18
+TRANSIENT_CFG	common/include/mma8451.h	27;"	d
+TRANSIENT_COUNT	common/include/mma8451.h	30;"	d
+TRANSIENT_SRC	common/include/mma8451.h	28;"	d
+TRANSIENT_THS	common/include/mma8451.h	29;"	d
+TRIG_CFG	common/include/mma8451.h	12;"	d
+T_byte	uart0.c	/^void T_byte(char ch)$/;"	f
+UART0	common/include/s5p6818_uart.h	35;"	d
+UART1	common/include/s5p6818_uart.h	38;"	d
+UART2	common/include/s5p6818_uart.h	41;"	d
+UART3	common/include/s5p6818_uart.h	44;"	d
+UART4	common/include/s5p6818_uart.h	47;"	d
+UART5	common/include/s5p6818_uart.h	50;"	d
+UARTCLKENB0	common/include/s5p6818_clk.h	110;"	d
+UARTCLKENB1	common/include/s5p6818_clk.h	111;"	d
+UARTCLKENB2	common/include/s5p6818_clk.h	112;"	d
+UARTCLKENB3	common/include/s5p6818_clk.h	113;"	d
+UARTCLKENB4	common/include/s5p6818_clk.h	114;"	d
+UARTCLKENB5	common/include/s5p6818_clk.h	115;"	d
+UARTCLKGEN0L0	common/include/s5p6818_clk.h	117;"	d
+UARTCLKGEN0L1	common/include/s5p6818_clk.h	118;"	d
+UARTCLKGEN0L2	common/include/s5p6818_clk.h	119;"	d
+UARTCLKGEN0L3	common/include/s5p6818_clk.h	120;"	d
+UARTCLKGEN0L4	common/include/s5p6818_clk.h	121;"	d
+UARTCLKGEN0L5	common/include/s5p6818_clk.h	122;"	d
+UBRDIV	common/include/s5p6818_uart.h	/^				unsigned int UBRDIV;$/;"	m	struct:__anon1
+UCON	common/include/s5p6818_uart.h	/^				unsigned int UCON;$/;"	m	struct:__anon1
+UERSTAT	common/include/s5p6818_uart.h	/^				unsigned int UERSTAT;$/;"	m	struct:__anon1
+UFCON	common/include/s5p6818_uart.h	/^				unsigned int UFCON;$/;"	m	struct:__anon1
+UFRACVAL	common/include/s5p6818_uart.h	/^				unsigned int UFRACVAL;$/;"	m	struct:__anon1
+UFSTAT	common/include/s5p6818_uart.h	/^				unsigned int UFSTAT;$/;"	m	struct:__anon1
+UINTM	common/include/s5p6818_uart.h	/^				unsigned int UINTM;$/;"	m	struct:__anon1
+UINTP	common/include/s5p6818_uart.h	/^				unsigned int UINTP;$/;"	m	struct:__anon1
+UINTS	common/include/s5p6818_uart.h	/^				unsigned int UINTS;$/;"	m	struct:__anon1
+ULCON	common/include/s5p6818_uart.h	/^				unsigned int ULCON;$/;"	m	struct:__anon1
+UMCON	common/include/s5p6818_uart.h	/^				unsigned int UMCON;$/;"	m	struct:__anon1
+UMSTAT	common/include/s5p6818_uart.h	/^				unsigned int UMSTAT;$/;"	m	struct:__anon1
+URXH	common/include/s5p6818_uart.h	/^				unsigned int URXH;$/;"	m	struct:__anon1
+USBHOSTOTGCLKENB	common/include/s5p6818_clk.h	155;"	d
+USBHOSTOTGCLKGEN0L	common/include/s5p6818_clk.h	157;"	d
+USBHOSTOTGCLKGEN1L	common/include/s5p6818_clk.h	159;"	d
+UTRSTAT	common/include/s5p6818_uart.h	/^				unsigned int UTRSTAT;$/;"	m	struct:__anon1
+UTXH	common/include/s5p6818_uart.h	/^				unsigned int UTXH;$/;"	m	struct:__anon1
+VIPCLKENB0	common/include/s5p6818_clk.h	126;"	d
+VIPCLKENB1	common/include/s5p6818_clk.h	127;"	d
+VIPCLKGEN0L0	common/include/s5p6818_clk.h	129;"	d
+VIPCLKGEN0L1	common/include/s5p6818_clk.h	130;"	d
+WHO_AM_I	common/include/mma8451.h	15;"	d
+WTCLRINT	common/include/s5p6818_wdt.h	19;"	d
+WTCNT	common/include/s5p6818_wdt.h	18;"	d
+WTCON	common/include/s5p6818_wdt.h	16;"	d
+WTDAT	common/include/s5p6818_wdt.h	17;"	d
+XYZ_DATA_CFG	common/include/mma8451.h	16;"	d
+ZEROPAD	common/src/printf.c	83;"	d	file:
+_ANSI_STDARG_H_	common/include/stdarg.h	32;"	d
+_BSD_VA_LIST	common/include/stdarg.h	67;"	d
+_C	common/include/ctype.h	12;"	d
+_D	common/include/ctype.h	11;"	d
+_L	common/include/ctype.h	10;"	d
+_LINUX_CTYPE_H	common/include/ctype.h	2;"	d
+_P	common/include/ctype.h	13;"	d
+_S	common/include/ctype.h	14;"	d
+_SP	common/include/ctype.h	16;"	d
+_STDARG_H	common/include/stdarg.h	31;"	d
+_U	common/include/ctype.h	9;"	d
+_UART_H	common/include/uart.h	2;"	d
+_VA_LIST	common/include/stdarg.h	111;"	d
+_VA_LIST	common/include/stdarg.h	63;"	d
+_VA_LIST	common/include/stdarg.h	79;"	d
+_VA_LIST_	common/include/stdarg.h	108;"	d
+_VA_LIST_	common/include/stdarg.h	76;"	d
+_VA_LIST_DEFINED	common/include/stdarg.h	114;"	d
+_VA_LIST_T_H	common/include/stdarg.h	117;"	d
+_X	common/include/ctype.h	15;"	d
+__ADC_H__	common/include/adc.h	2;"	d
+__GNUC_VA_LIST	common/include/stdarg.h	39;"	d
+__IIC_H__	common/include/iic.h	2;"	d
+__IRQ_H__	common/include/irq.h	3;"	d
+__LED_H__	common/include/led.h	2;"	d
+__MATH_H__	common/include/math.h	2;"	d
+__MMA8451_H__	common/include/mma8451.h	2;"	d
+__PWM_H__	common/include/pwm.h	2;"	d
+__REG	common/include/s5p6818_adc.h	11;"	d
+__REG	common/include/s5p6818_clk.h	11;"	d
+__REG	common/include/s5p6818_gpio.h	11;"	d
+__REG	common/include/s5p6818_iic.h	4;"	d
+__REG	common/include/s5p6818_int.h	4;"	d
+__REG	common/include/s5p6818_pwm.h	11;"	d
+__REG	common/include/s5p6818_rtc.h	11;"	d
+__REG	common/include/s5p6818_spi.h	4;"	d
+__REG	common/include/s5p6818_sys.h	5;"	d
+__REG	common/include/s5p6818_uart.h	11;"	d
+__REG	common/include/s5p6818_wdt.h	11;"	d
+__RTC_H__	common/include/rtc.h	2;"	d
+__S5P6818_H__	common/include/s5p6818.h	2;"	d
+__S5P6818_IIC_H__	common/include/s5p6818_iic.h	2;"	d
+__S5P6818_INT_H__	common/include/s5p6818_int.h	2;"	d
+__S5P6818_SPI_H__	common/include/s5p6818_spi.h	2;"	d
+__S5P6818_SYS_H__	common/include/s5p6818_sys.h	3;"	d
+__UART0_H__	common/include/uart0.h	2;"	d
+__VA_LIST	common/include/stdarg.h	84;"	d
+__WDT_H__	common/include/wdt.h	2;"	d
+___S5P6818_ADC_H_	common/include/s5p6818_adc.h	9;"	d
+___S5P6818_CLK_H_	common/include/s5p6818_clk.h	9;"	d
+___S5P6818_GPIO_H_	common/include/s5p6818_gpio.h	9;"	d
+___S5P6818_PWM_H_	common/include/s5p6818_pwm.h	9;"	d
+___S5P6818_RTC_H_	common/include/s5p6818_rtc.h	9;"	d
+___S5P6818_UART_H_	common/include/s5p6818_uart.h	9;"	d
+___S5P6818_WDT_H_	common/include/s5p6818_wdt.h	9;"	d
+__gnuc_va_list	common/include/stdarg.h	/^typedef __builtin_va_list __gnuc_va_list;$/;"	t
+__ismask	common/include/ctype.h	45;"	d
+__need___va_list	common/include/stdarg.h	34;"	d
+__tolower	common/include/ctype.h	/^static inline unsigned char __tolower(unsigned char c)$/;"	f
+__toupper	common/include/ctype.h	/^static inline unsigned char __toupper(unsigned char c)$/;"	f
+__va_copy	common/include/stdarg.h	53;"	d
+__va_list__	common/include/stdarg.h	120;"	d
+_ctype	common/include/ctype.h	/^unsigned char _ctype[] = {$/;"	v
+_data_abort	start/start.S	/^_data_abort:$/;"	l
+_fiq	start/start.S	/^_fiq:$/;"	l
+_irq	start/start.S	/^_irq:$/;"	l
+_not_used	start/start.S	/^_not_used:$/;"	l
+_prefetch_abort	start/start.S	/^_prefetch_abort:$/;"	l
+_software_interrupt	start/start.S	/^_software_interrupt:$/;"	l
+_stack_abt_end	start/start.S	/^_stack_abt_end:      .long   stack_abt + 512$/;"	l
+_stack_fiq_end	start/start.S	/^_stack_fiq_end:      .long   stack_fiq + 512$/;"	l
+_stack_irq_end	start/start.S	/^_stack_irq_end:      .long   stack_irq + 512$/;"	l
+_stack_svc_end	start/start.S	/^_stack_svc_end:      .long   stack_svc + 512$/;"	l
+_stack_und_end	start/start.S	/^_stack_und_end:      .long   stack_und + 512$/;"	l
+_stack_usr_end	start/start.S	/^_stack_usr_end:      .long   stack_usr + 512$/;"	l
+_start	start/start.S	/^_start:$/;"	l
+_undefined_instruction	start/start.S	/^_undefined_instruction:$/;"	l
+clbss_l	start/start.S	/^clbss_l: cmp r0, r1			\/* while not at end of BSS *\/$/;"	l
+conversion_accel	mma8451.c	/^short conversion_accel(short value)$/;"	f
+curbit	common/src/_udivsi3.S	/^curbit		.req	r3$/;"	l
+curbit	common/src/_umodsi3.S	/^curbit		.req	r3$/;"	l
+data_abort	start/start.S	/^data_abort:$/;"	l
+day	rtc.c	/^unsigned int sec, min, hour, week, day, mouth, year;$/;"	v
+delay_ms	led.c	/^void delay_ms(unsigned int ms)$/;"	f
+dividend	common/src/_udivsi3.S	/^dividend	.req	r0$/;"	l
+dividend	common/src/_umodsi3.S	/^dividend	.req	r0$/;"	l
+divisor	common/src/_udivsi3.S	/^divisor		.req	r1$/;"	l
+divisor	common/src/_umodsi3.S	/^divisor		.req	r1$/;"	l
+do_div	common/src/printf.c	92;"	d	file:
+do_div	common/src/printf.c	99;"	d	file:
+do_irq	irq.c	/^void do_irq(void)$/;"	f
+fiq	start/start.S	/^fiq:$/;"	l
+get_accel_value	mma8451.c	/^short get_accel_value(unsigned char high_addr, unsigned char low_addr)$/;"	f
+getc	common/src/uart.c	/^char getc(void)$/;"	f
+gicd_cpendsgir	common/include/s5p6818_int.h	/^}gicd_cpendsgir;$/;"	t	typeref:struct:__anon16
+gicd_icfgr	common/include/s5p6818_int.h	/^}gicd_icfgr;$/;"	t	typeref:struct:__anon14
+gicd_icpender	common/include/s5p6818_int.h	/^}gicd_icpender;$/;"	t	typeref:struct:__anon9
+gicd_igroupr	common/include/s5p6818_int.h	/^}gicd_igroupr;$/;"	t	typeref:struct:__anon5
+gicd_iprioriryr	common/include/s5p6818_int.h	/^}gicd_iprioriryr;$/;"	t	typeref:struct:__anon12
+gicd_isactiver	common/include/s5p6818_int.h	/^}gicd_isactiver;$/;"	t	typeref:struct:__anon10
+gicd_iscctiver	common/include/s5p6818_int.h	/^}gicd_iscctiver;$/;"	t	typeref:struct:__anon11
+gicd_iscenabler	common/include/s5p6818_int.h	/^}gicd_iscenabler;$/;"	t	typeref:struct:__anon7
+gicd_isenabler	common/include/s5p6818_int.h	/^}gicd_isenabler;$/;"	t	typeref:struct:__anon6
+gicd_ispendr	common/include/s5p6818_int.h	/^}gicd_ispendr;$/;"	t	typeref:struct:__anon8
+gicd_itargetsr	common/include/s5p6818_int.h	/^}gicd_itargetsr;$/;"	t	typeref:struct:__anon13
+gicd_spendsgir	common/include/s5p6818_int.h	/^}gicd_spendsgir;$/;"	t	typeref:struct:__anon17
+gicd_spisr	common/include/s5p6818_int.h	/^}gicd_spisr;$/;"	t	typeref:struct:__anon15
+gpioa	common/include/s5p6818_gpio.h	/^} gpioa;$/;"	t	typeref:struct:__anon19
+gpiob	common/include/s5p6818_gpio.h	/^} gpiob;$/;"	t	typeref:struct:__anon20
+gpioc	common/include/s5p6818_gpio.h	/^} gpioc;$/;"	t	typeref:struct:__anon21
+gpiod	common/include/s5p6818_gpio.h	/^} gpiod;$/;"	t	typeref:struct:__anon22
+gpioe	common/include/s5p6818_gpio.h	/^} gpioe;$/;"	t	typeref:struct:__anon23
+hal_adc_conversion	adc.c	/^unsigned int  hal_adc_conversion(void)$/;"	f
+hal_adc_init	adc.c	/^void hal_adc_init(void)$/;"	f
+hal_feed_dog	wdt.c	/^void hal_feed_dog(void)$/;"	f
+hal_gpio_beep_close	pwm.c	/^void hal_gpio_beep_close(void)$/;"	f
+hal_gpio_beep_init	pwm.c	/^void hal_gpio_beep_init(void)$/;"	f
+hal_gpio_beep_open	pwm.c	/^void hal_gpio_beep_open(void)$/;"	f
+hal_irq_gicc_init	irq.c	/^void hal_irq_gicc_init(void)$/;"	f
+hal_irq_gicd_init	irq.c	/^void hal_irq_gicd_init(void)$/;"	f
+hal_irq_gpio_init	irq.c	/^void hal_irq_gpio_init(void)$/;"	f
+hal_led_flash	led.c	/^void hal_led_flash(void)$/;"	f
+hal_led_init	led.c	/^void hal_led_init(void)$/;"	f
+hal_led_onoff	led.c	/^void hal_led_onoff(char leds, char onoff)$/;"	f
+hal_pwm_close	pwm.c	/^void hal_pwm_close(void)$/;"	f
+hal_pwm_init	pwm.c	/^void hal_pwm_init(void)$/;"	f
+hal_pwm_open	pwm.c	/^void hal_pwm_open(void)$/;"	f
+hal_pwm_timer_init	pwm.c	/^void hal_pwm_timer_init(void)$/;"	f
+hal_pwm_timer_open	pwm.c	/^void hal_pwm_timer_open(void)$/;"	f
+hal_rtc_convert	rtc.c	/^void hal_rtc_convert(void)$/;"	f
+hal_rtc_init	rtc.c	/^void hal_rtc_init(void)$/;"	f
+hal_uart0_init	uart0.c	/^void hal_uart0_init(void)$/;"	f
+hal_wdt_init	wdt.c	/^void hal_wdt_init(void)$/;"	f
+hour	rtc.c	/^unsigned int sec, min, hour, week, day, mouth, year;$/;"	v
+iic	common/include/s5p6818_iic.h	/^} iic;$/;"	t	typeref:struct:__anon2
+iic1	common/include/s5p6818_iic.h	/^} iic1;$/;"	t	typeref:struct:__anon3
+iic2	common/include/s5p6818_iic.h	/^} iic2;$/;"	t	typeref:struct:__anon4
+iic_Read_byte	iic.c	/^char iic_Read_byte(char RegAddr)$/;"	f
+iic_Write_byte	iic.c	/^void iic_Write_byte(char RegAddr,char Dat)$/;"	f
+irq	start/start.S	/^irq:$/;"	l
+is_digit	common/src/printf.c	72;"	d	file:
+isalnum	common/include/ctype.h	47;"	d
+isalpha	common/include/ctype.h	48;"	d
+isascii	common/include/ctype.h	59;"	d
+iscntrl	common/include/ctype.h	49;"	d
+isdigit	common/include/ctype.h	50;"	d
+isgraph	common/include/ctype.h	51;"	d
+islower	common/include/ctype.h	52;"	d
+isprint	common/include/ctype.h	53;"	d
+ispunct	common/include/ctype.h	54;"	d
+isspace	common/include/ctype.h	55;"	d
+isupper	common/include/ctype.h	56;"	d
+isxdigit	common/include/ctype.h	57;"	d
+main	interface.c	/^int main()$/;"	f
+min	rtc.c	/^unsigned int sec, min, hour, week, day, mouth, year;$/;"	v
+mma8451_init	mma8451.c	/^void mma8451_init(void)$/;"	f
+mouth	rtc.c	/^unsigned int sec, min, hour, week, day, mouth, year;$/;"	v
+not_used	start/start.S	/^not_used:$/;"	l
+number	common/src/printf.c	/^static char * number(char * str, long long num, unsigned int base, int size, int precision ,int type)$/;"	f	file:
+oldPos	mma8451.c	/^int oldPos = 0;$/;"	v
+overdone	common/src/_umodsi3.S	/^overdone	.req	r2$/;"	l
+power_display	interface.c	/^void power_display(unsigned int voltage)$/;"	f
+prefetch_abort	start/start.S	/^prefetch_abort:$/;"	l
+print_time	rtc.c	/^void print_time(void)$/;"	f
+printf	common/src/printf.c	/^void printf (const char *fmt, ...)$/;"	f
+putc	common/src/uart.c	/^void putc(const char data)$/;"	f
+puts	common/src/uart.c	/^void puts(const  char  *pstr)$/;"	f
+pwm	common/include/s5p6818_pwm.h	/^}pwm;$/;"	t	typeref:struct:__anon18
+res	common/include/s5p6818_spi.h	/^	uint32 res;$/;"	m	struct:__anon24
+reset	start/start.S	/^reset:$/;"	l
+result	common/src/_udivsi3.S	/^result		.req	r2$/;"	l
+sec	rtc.c	/^unsigned int sec, min, hour, week, day, mouth, year;$/;"	v
+sec1	rtc.c	/^unsigned int sec1 = 0;$/;"	v
+simple_strtol	common/src/printf.c	/^long simple_strtol(const char *cp,char **endp,unsigned int base)$/;"	f
+simple_strtoul	common/src/printf.c	/^unsigned long simple_strtoul(const char *cp,char **endp,unsigned int base)$/;"	f
+simple_strtoull	common/src/printf.c	/^unsigned long long simple_strtoull (const char *cp, char **endp, unsigned int base)$/;"	f
+size_t	common/src/printf.c	5;"	d	file:
+skip_atoi	common/src/printf.c	/^static int skip_atoi(const char **s)$/;"	f	file:
+slave_address	common/include/mma8451.h	50;"	d
+software_interrupt	start/start.S	/^software_interrupt:$/;"	l
+spi	common/include/s5p6818_spi.h	/^} spi;$/;"	t	typeref:struct:__anon24
+sprintf	common/src/printf.c	/^int sprintf(char * buf, const char *fmt, ...)$/;"	f
+sqrt	math.c	/^int sqrt(int n)$/;"	f
+stack_abt	start/start.S	/^stack_abt:      .space   512$/;"	l
+stack_fiq	start/start.S	/^stack_fiq:      .space   512$/;"	l
+stack_irq	start/start.S	/^stack_irq:      .space   512$/;"	l
+stack_svc	start/start.S	/^stack_svc:      .space   512$/;"	l
+stack_und	start/start.S	/^stack_und:      .space   512$/;"	l
+stack_usr	start/start.S	/^stack_usr:      .space   512$/;"	l
+strnlen	common/src/printf.c	/^size_t strnlen(const char * s, size_t count)$/;"	f
+toascii	common/include/ctype.h	60;"	d
+tolower	common/include/ctype.h	75;"	d
+toupper	common/include/ctype.h	76;"	d
+uart	common/include/s5p6818_uart.h	/^}uart;$/;"	t	typeref:struct:__anon1
+uart_init	common/src/uart.c	/^void uart_init()$/;"	f
+uint32	common/include/s5p6818_adc.h	12;"	d
+uint32	common/include/s5p6818_clk.h	12;"	d
+uint32	common/include/s5p6818_gpio.h	12;"	d
+uint32	common/include/s5p6818_iic.h	5;"	d
+uint32	common/include/s5p6818_int.h	5;"	d
+uint32	common/include/s5p6818_pwm.h	12;"	d
+uint32	common/include/s5p6818_rtc.h	12;"	d
+uint32	common/include/s5p6818_spi.h	5;"	d
+uint32	common/include/s5p6818_sys.h	6;"	d
+uint32	common/include/s5p6818_uart.h	12;"	d
+uint32	common/include/s5p6818_wdt.h	12;"	d
+undefined_instruction	start/start.S	/^undefined_instruction:$/;"	l
+va_arg	common/include/stdarg.h	49;"	d
+va_copy	common/include/stdarg.h	51;"	d
+va_end	common/include/stdarg.h	48;"	d
+va_list	common/include/stdarg.h	/^typedef __gnuc_va_list va_list;$/;"	t
+va_start	common/include/stdarg.h	47;"	d
+vsprintf	common/src/printf.c	/^int vsprintf(char *buf, const char *fmt, va_list args)$/;"	f
+week	rtc.c	/^unsigned int sec, min, hour, week, day, mouth, year;$/;"	v
+x	interface.c	/^short x,y,z;$/;"	v
+y	interface.c	/^short x,y,z;$/;"	v
+year	rtc.c	/^unsigned int sec, min, hour, week, day, mouth, year;$/;"	v
+z	interface.c	/^short x,y,z;$/;"	v
